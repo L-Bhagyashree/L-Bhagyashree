@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **JAVA , SPRING , JDBC , MVC , SPRING SECURITY , SPRING AOP , SPRINGBOOT , POSTGRESQL , MYSQL , REACT JS**
 
-- 🌱 I’m currently learning **MICROSERVICES , DOCKER , KUBERNETES**
+- 🌱 I’m currently learning **MICROSERVICES , DOCKER , KUBERNETES, System Design**
 
 - 💬 Ask me about **Anything !!!**
 
