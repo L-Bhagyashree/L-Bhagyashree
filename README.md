@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-bhagyashree&label=Profile%20views&color=0e75b6&style=flat" alt="l-bhagyashree" /> </p>
 
-- 🔭 I’m currently working on **JAVA , SPRING , JDBC , MVC , SPRING SECURITY , SPRING AOP , SPRINGBOOT , POSTGRESQL , MYSQL , REACT JS**
+- 🔭 I’m currently working on **JAVA , SPRING , JDBC , MVC , SPRING SECURITY , SPRING AOP , SPRINGBOOT , POSTGRESQL , MYSQL, REACT JS**
 
 - 🌱 I’m currently learning **MICROSERVICES , DOCKER, KUBERNETES, System Design, DSA**
 
